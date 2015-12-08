@@ -12,7 +12,7 @@ import com.example.fragmentdemo.R;
 
 public class Fragment2 extends Fragment {
 
-	private static final String TAG = "FragmentDemo";
+	private static final String TAG = "TeddyFragment2";
 
 	@Override
 	public void onAttach(Activity activity) {
@@ -20,7 +20,7 @@ public class Fragment2 extends Fragment {
 		Bundle args = getArguments();
 		if (null != args) {
 			/*
-			 * ÔÚÕâÀïÎÒÃÇ¿ÉÒÔ½«´ÓAcivityÊÕµ½µÄÊı¾İ±£´æÆğÀ´£¬²¢ÇÒÏÔÊ¾µ½Fragmentµ±ÖĞ¡£
+			 * ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ç¿ï¿½ï¿½Ô½ï¿½ï¿½ï¿½Acivityï¿½Õµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½İ±ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê¾ï¿½ï¿½Fragmentï¿½ï¿½ï¿½Ğ¡ï¿½
 			 */
 			Log.d(TAG,
 					"Fragment2 Get data from activity "
