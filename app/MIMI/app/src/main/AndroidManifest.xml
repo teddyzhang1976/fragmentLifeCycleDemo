@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="com.example.teddy.ui.MainActivity">
+        <activity android:name="com.example.teddy.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -25,7 +25,12 @@
             android:exported="false" />
         <service
             android:name=".MatchIntentService"
-            android:exported="false"></service>
+            android:exported="false" />
+
+        <activity
+            android:name="com.example.teddy.MatchActivity"
+            android:label="@string/title_activity_match"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>

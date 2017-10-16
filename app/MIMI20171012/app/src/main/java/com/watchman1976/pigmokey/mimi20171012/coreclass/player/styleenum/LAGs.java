@@ -1,6 +1,7 @@
-package com.example.teddy.coreclass.player.styleenum;
+package com.watchman1976.pigmokey.mimi20171012.coreclass.player.styleenum;
 
-import com.example.teddy.coreclass.player.IPlayerStyle;
+
+import com.watchman1976.pigmokey.mimi20171012.coreclass.player.IPlayerStyle;
 
 /**
  * Created by teddy on 2017/10/6.

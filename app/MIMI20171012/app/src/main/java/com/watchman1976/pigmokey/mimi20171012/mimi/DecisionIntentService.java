@@ -1,4 +1,4 @@
-package com.example.teddy.mimi;
+package com.watchman1976.pigmokey.mimi20171012.mimi;
 
 import android.app.IntentService;
 import android.content.Intent;

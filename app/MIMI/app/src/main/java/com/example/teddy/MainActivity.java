@@ -1,4 +1,4 @@
-package com.example.teddy.ui;
+package com.example.teddy;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
