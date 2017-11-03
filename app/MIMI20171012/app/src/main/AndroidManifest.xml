@@ -16,7 +16,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ui.MatchActivity"></activity>
+        <activity android:name=".ui.MatchActivity">
+            <intent-filter>
+                <action android:name="com.watchman1976.pigmokey.mimi20171012.ui.MatchActivity" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
     </application>
 
 </manifest>
