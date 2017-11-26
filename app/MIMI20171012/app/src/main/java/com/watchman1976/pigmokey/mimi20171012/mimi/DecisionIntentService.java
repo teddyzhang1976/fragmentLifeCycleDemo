@@ -8,7 +8,7 @@ import android.content.Context;
  * An {@link IntentService} subclass for handling asynchronous task requests in
  * a service on a separate handler thread.
  * <p>这个service是MIMI主程序，用于对牌局做决定。不过这个需要在游戏系统结束以后
- * 才有时间做。排在最后而且是最主要的位置。
+ * 才有时间做。排在最后而且是最主要的位置，平时则需要不断采样抽象。
  * TODO: Customize class - update intent actions, extra parameters and static
  * helper methods.
  */

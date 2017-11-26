@@ -3,9 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MIMI.iml" filepath="$PROJECT_DIR$/MIMI.iml" />
-      <module fileurl="file://D:\workspace\Repository\gitHubRepository\fragmentLifeCycleDemo\app\MIMI\MIMI.iml" filepath="D:\workspace\Repository\gitHubRepository\fragmentLifeCycleDemo\app\MIMI\MIMI.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://D:\workspace\Repository\gitHubRepository\fragmentLifeCycleDemo\app\MIMI\app\app.iml" filepath="D:\workspace\Repository\gitHubRepository\fragmentLifeCycleDemo\app\MIMI\app\app.iml" />
     </modules>
   </component>
 </project>
