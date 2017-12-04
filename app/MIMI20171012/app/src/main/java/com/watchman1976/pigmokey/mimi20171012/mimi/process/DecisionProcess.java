@@ -1,4 +1,4 @@
-package com.watchman1976.pigmokey.mimi20171012.mimi;
+package com.watchman1976.pigmokey.mimi20171012.mimi.process;
 
 import com.watchman1976.pigmokey.mimi20171012.mimi.input.IDecisionInput;
 import com.watchman1976.pigmokey.mimi20171012.mimi.output.IDecisionOutput;
